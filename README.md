@@ -6,7 +6,7 @@
 ## How To Use
 ```
 apt-get install pytho2 && apt-get install python3
-git clone https://github.com/king-hacking/SPY-KING
+git clone https://github.com/king-hacking/SPY-KING.git
 cd SPY-KING
 python3 SPY-KING.py
 ```
